@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "set": "cpp",
+        "ios": "cpp",
+        "__hash_table": "cpp",
+        "__tree": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "map": "cpp",
+        "ostream": "cpp"
+    }
+}
