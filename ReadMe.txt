@@ -11,7 +11,7 @@ Tried-5
 Not Tried-0
 
 Week 3
-Accepted-5
-Not Accepted-3
+Accepted-4
+Not Accepted-4
 Tried-8
 Not Tried-0
