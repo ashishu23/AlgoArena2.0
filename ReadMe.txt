@@ -21,8 +21,8 @@ Not Tried-0
 
 Week 4
 Total-10
-Accepted-8
-Not Accepted-2
+Accepted-9
+Not Accepted-1
 Tried-10
 Not Tried-0
 
