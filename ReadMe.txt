@@ -31,4 +31,4 @@ Total-14
 Accepted-9
 Not Accepted-0
 Tried-9
-Not Tried-5
+Not Tried-5 (Graph questions)
